@@ -75,7 +75,7 @@ polygons. Can you identify them?
 There are several operations that can be done with polygons. Here we mention
 some examples:
 
-**Convex hull: Given a set of points, we can calculate the smallest convex
+**Convex hull:** Given a set of points, we can calculate the smallest convex
 polygon that contains the set.
 
 <img src="https://i.stack.imgur.com/o94Bp.png" width="150" />

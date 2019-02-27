@@ -56,15 +56,19 @@ There are several operations that can be done with polygons. Here we mention som
 <img src="https://i.stack.imgur.com/o94Bp.png" width="150" />
 
 **Intersection:** The intersection of two convex polygons is a convex polygon, as shown in the figure.
+
 <img src="https://i.stack.imgur.com/2xT2K.png" width=200 />
 
 **Convex Union:** Given two convex polygons, the convex union is the smallest convex polygon that contains both polygons. Equivalently, it is the convex hull of both polygons.
 
 **Bounding box:** Given a set of convex polygons, find the smallest bounding box that encloses all polygons.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Minimum_bounding_rectangle.svg/200px-Minimum_bounding_rectangle.svg.png" width="200">
+
 (notice that polygons with a huge number of vertices look like circles in the figure).
 
 **Inside:** We can check whether a convex polygon is inside another convex polygon.
+
 <img src="https://ds055uzetaobb.cloudfront.net/image_optimizer/8821e450b9b8352789f37e19a35ce485ba9c1336.png" width="200"/>
 
 ### Information about polygons

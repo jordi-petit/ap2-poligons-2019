@@ -5,6 +5,7 @@
 
 Aquesta pràctica té dues parts:
 
+
 ## Primera part
 
 A la primera part heu d'escriure una classe per tractar polígons convexes i un
@@ -14,18 +15,25 @@ l'enunciat, en anglès.
 Observacions:
 
 - Per a la classe de polígons, trieu la interfície que us sembli més apropiada
-- i còmoda *des del punt de vista de l'usuari*. Trieu també la representació i
-- la implementació el més eficient possible (suposeu que cal tractar polígons
-- amb molts vèrtexs).
+i còmoda *des del punt de vista de l'usuari*. Trieu també la representació i
+la implementació el més eficient possible (suposeu que cal tractar polígons
+amb molts vèrtexs).
 
 - Escriviu diferents jocs de proves que posin de manifest el correcte
-- funcionament i l'eficiència de la vostra solució.
+funcionament i l'eficiència de la vostra solució.
 
 - Documenteu adequadament totes les parts de la vostre feina. Deixeu clares
-- les vostres decisions de disseny.
+les vostres decisions de disseny.
+
+- Escriviu un fitxer `README.md` per la documentació general, les instruccions
+d'instal·lació, ètc, i un fitxer `Makefile` per compilar el projecte.
 
 - Assegureu-vos que el vostre codi es compila adequadament, almenys, amb els
-- ordinadors de la facultat.
+ordinadors de la facultat.
+
+- Per evitar problemes de còpies,
+no pengeu el vostre projecte en repositoris públics. Si us cal un repositori
+GIT, useu [GITLAB FIB](https://gitlab.fib.upc.edu/users/sign_in).
 
 Heu de lliurar la pràctica a través de Peergrade (Learn by giving feedback).
 Per a fer-ho, aneu a https://app.peergrade.io/join i doneu el codi ?????. A
@@ -37,6 +45,7 @@ personal vostra: el vostre lliurament ha de ser completament anònim.
 
 La data límit per lliurar la primera part de la vostra pràctica és el ????? de
 ????? (inclòs).
+
 
 ## Segona part
 
@@ -56,7 +65,8 @@ La data límit per lliurar la segona part de la pràctica és el diumenge XXXX d
 XXXX (inclòs).
 
 Totes les pràctiques s'han de fer en solitari. Els professors utilitzaran
-programes detectors de plagi.
+programes detectors de plagi. És obligatori corregir les pràctiques dels
+tres companys assignades pel sistema.
 
 
 
@@ -369,7 +379,7 @@ it was not given). Possible errors include:
 ### Precision
 
 In order to cope with precision issues of float numbers, use an absolute
-tolerance of $10^{-12}$ when comparing values.
+tolerance of `1e-12` when comparing values.
 
 ### Additional commands
 

@@ -1,5 +1,5 @@
 
-> DRAFT!
+
 
 # Pràctica AP2 2019
 
@@ -36,15 +36,14 @@ no pengeu el vostre projecte en repositoris públics. Si us cal un repositori
 GIT, useu [GITLAB FIB](https://gitlab.fib.upc.edu/users/sign_in).
 
 Heu de lliurar la pràctica a través de Peergrade (Learn by giving feedback).
-Per a fer-ho, aneu a https://app.peergrade.io/join i doneu el codi ?????. A
+Per a fer-ho, aneu a https://app.peergrade.io/join i doneu el codi `GNYBYX`. A
 continuació, creu un nou compte introduint el vostre nom complet, el vostre
 correu electrònic oficial (el mateix que teniu pel Jutge) i una contrasenya
-(recordeu-la!). Lliureu tots els fitxers necessaris (binaris no!) però tingueu
+(recordeu-la!). Lliureu en un fitxer ZIP tots els fitxers necessaris (binaris no!) però tingueu
 cura de **NO** identificar-ne cap amb el vostre nom o altre informació
 personal vostra: el vostre lliurament ha de ser completament anònim.
 
-La data límit per lliurar la primera part de la vostra pràctica és el ????? de
-????? (inclòs).
+La data límit per lliurar la primera part de la vostra pràctica és el diumenge 31 de març fins a les 23:59.
 
 
 ## Segona part
@@ -61,8 +60,9 @@ podrà puntuar a l'alta o a la baixa respecte l'avaluació dels estudiants). Els
 professors també poden corregir pràctiques "d'ofici" i substituir la nota
 rebuda pels companys per la del professor.
 
-La data límit per lliurar la segona part de la pràctica és el diumenge XXXX de
-XXXX (inclòs).
+Podeu començar a corregir les pràctiques dels vostres companys a partir del dimecres 3 d'abril a les 8:00.
+La data límit per lliurar la primera part de la vostra pràctica és el divendres 24 d'abril fins a les 23:59.
+No podreu veure les correccions dels vostres companys fins que no hagueu donat les vostres correccions.
 
 Totes les pràctiques s'han de fer en solitari. Els professors utilitzaran
 programes detectors de plagi. És obligatori corregir les pràctiques dels

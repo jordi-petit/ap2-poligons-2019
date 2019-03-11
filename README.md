@@ -305,7 +305,7 @@ given polygon.
 
 ### The `centroid` command
 
-The `perimeter` command prints the centroid of the given polygon.
+The `centroid` command prints the centroid of the given polygon.
 
 ### The `list` command
 

@@ -358,6 +358,12 @@ Given two polygons, the `inside` command prints `yes` or `not` to tell whether
 the first is inside the second or not.
 
 
+### The `bbox` command
+
+The `bbox` command prints the four vertices corresponding to the
+bounding box of the given polygons. Use the same ordering as in `print`.
+
+
 ### Commands without answer
 
 As seen in the examples, some commands do not really produce an answer. In

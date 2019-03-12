@@ -360,8 +360,8 @@ the first is inside the second or not.
 
 ### The `bbox` command
 
-The `bbox` command prints the four vertices corresponding to the
-bounding box of the given polygons. Use the same ordering as in `print`.
+The `bbox` command creates a new polygon with the four vertices corresponding to the
+bounding box of the given polygons.
 
 
 ### Commands without answer

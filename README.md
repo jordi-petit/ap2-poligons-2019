@@ -235,9 +235,7 @@ p1 0.000 0.000 0.000 1.000 1.000 1.000
 
 and `image.png` will be
 
-```
-IMAGE TO BE DONE
-```
+![image.png](image.png)
 
 ## Details of the polygon calculator
 

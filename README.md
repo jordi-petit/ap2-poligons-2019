@@ -61,7 +61,7 @@ professors també poden corregir pràctiques "d'ofici" i substituir la nota
 rebuda pels companys per la del professor.
 
 Podeu començar a corregir les pràctiques dels vostres companys a partir del dimecres 3 d'abril a les 8:00.
-La data límit per lliurar la segona part de la vostra pràctica és el divendres 24 d'abril fins a les 23:59.
+La data límit per lliurar la segona part de la vostra pràctica és el divendres 26 d'abril fins a les 23:59.
 No podreu veure les correccions dels vostres companys fins que no hagueu donat les vostres correccions.
 
 Totes les pràctiques s'han de fer en solitari. Els professors utilitzaran
